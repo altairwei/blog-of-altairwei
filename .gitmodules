@@ -1,0 +1,3 @@
+[submodule "themes/Claudia"]
+	path = themes/Claudia
+	url = https://github.com/Haojen/hexo-theme-Claudia.git
