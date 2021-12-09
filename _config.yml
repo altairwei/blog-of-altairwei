@@ -113,6 +113,9 @@ theme_config:
     linkedin:
     instagram:
 
+auto_category:
+  enable: true
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
