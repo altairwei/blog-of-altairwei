@@ -104,10 +104,14 @@ theme_config:
     avatar: /images/avatar.jpg
     location: Shanghai
     description: A pet bioinformatician
-    footnotes:
-  # config you SNS
+    footnotes: <a href="https://beian.miit.gov.cn">沪ICP备2021033600号</a> 
   social:
     github: altairwei
+    zhihu:
+    twitter:
+    facebook:
+    linkedin:
+    instagram:
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
