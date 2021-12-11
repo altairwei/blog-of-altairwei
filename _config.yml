@@ -113,7 +113,7 @@ theme_config:
     linkedin:
     instagram:
   comment_utteranc:
-    enable: true
+    enable: false
     repo: altairwei/blog-of-altairwei
     label: Comment
     issue_term: pathname
