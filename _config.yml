@@ -44,7 +44,7 @@ post_asset_folder: true
 relative_link: false
 future: true
 highlight:
-  enable: true
+  enable: false
   line_number: true
   auto_detect: false
   tab_replace: ''
@@ -113,7 +113,10 @@ theme_config:
     linkedin:
     instagram:
   comment_utteranc:
-    enable: false
+    enable: true
+    repo: altairwei/blog-of-altairwei
+    label: Comment
+    issue_term: pathname
 
 auto_category:
   enable: true
