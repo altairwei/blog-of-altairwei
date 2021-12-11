@@ -112,7 +112,10 @@ theme_config:
     linkedin:
     instagram:
   comment_utteranc:
-    enable: false
+    enable: true
+    repo: altairwei/blog-of-altairwei
+    label: Comment
+    issue_term: pathname
 
 auto_category:
   enable: true

@@ -3,7 +3,10 @@ title: UEFI/GPT 模式下使用 rEFInd 引导 Win10 & Linux 双系统的方案
 category: "Linux"
 cover: /images/covers/cover_win-linux-dual-system.png
 author: Altair Wei
+date: 2018/10/31
 ---
+
+此文最早由我在[简书](https://www.jianshu.com/p/90dca469e8f8)发表，现搬运到本人博客。
 
 > 写这篇文章的初衷在于网络上关于 Windows 和 Linux 双系统的安装大多停留在 BIOS/MBR 时代，而现在计算主板主要为 UEFI/GPT 的架构。本文假设读者已经重装过几次 Windows 系统，对计算机基础知识有一定了解，知道如何进入 BIOS，知道如何对硬盘进行分区。如果在阅读本文过程中遇到不太熟悉的概念，请务必先自行搜索并查阅相关资料。本文不提供 Win10 安装方法，以下内容默认用户电脑已安装 Win10 系统。
 
