@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 我的 IT 技术分享
-subtitle: Altair Wei 的博客
-description: 这里将会分享生物信息学、数据科学、Qt 桌面开发等技术。
+title: Altair's Blog
+subtitle: Altair's blog
+description: Technologies such as bioinformatics, data science, and Qt desktop development will be shared here.
 keywords: Bioinformatics,R,Python,C++,JavaScript,Qt
 author: Altair Wei
 language: zh
@@ -121,8 +121,6 @@ auto_category:
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: sftp
-  host: 1.15.86.147
-  user: root
-  remotePath: /var/www/html/
-  port: 22
+  type: git
+  repo: git@github.com:altairwei/altairwei.github.io.git
+  branch: master
