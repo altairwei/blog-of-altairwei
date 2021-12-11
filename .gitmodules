@@ -1,0 +1,3 @@
+[submodule "themes/Claudia"]
+	path = themes/Claudia
+	url = git@github.com:altairwei/hexo-theme-Claudia.git
