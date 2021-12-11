@@ -119,4 +119,8 @@ auto_category:
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: sftp
+  host: 1.15.86.147
+  user: root
+  remotePath: /var/www/html/
+  port: 22
