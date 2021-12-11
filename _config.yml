@@ -112,6 +112,8 @@ theme_config:
     facebook:
     linkedin:
     instagram:
+  comment_utteranc:
+    enable: false
 
 auto_category:
   enable: true
