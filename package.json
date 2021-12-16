@@ -4,9 +4,12 @@
   "private": true,
   "scripts": {
     "build": "hexo generate",
+    "cn-build": "hexo generate --config _config.zh-CN.yml",
     "clean": "hexo clean",
-    "deploy": "hexo deploy",
-    "server": "hexo server"
+    "deploy": "hexo deploy -g",
+    "cn-deploy": "hexo deploy -g --config _config.zh-CN.yml",
+    "server": "hexo server",
+    "cn-server": "hexo server --config _config.zh-CN.yml"
   },
   "hexo": {
     "version": "5.4.0"
