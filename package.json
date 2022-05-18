@@ -38,6 +38,6 @@
     "hexo-theme-landscape": "^0.0.3",
     "hexo-theme-simpleblock": "^0.2.1",
     "jade": "^1.11.0",
-    "marked": "^4.0.6"
+    "marked": "^4.0.16"
   }
 }
