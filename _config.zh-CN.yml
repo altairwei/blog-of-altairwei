@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 我的 IT 技术分享
+title: Altair Wei 的技术分享
 subtitle: Altair Wei 的博客
 description: 这里将会分享生物信息学、数据科学、Qt 桌面开发等技术。
 keywords: [Bioinformatics, R, Python, C++, JavaScript, Qt]
@@ -119,7 +119,7 @@ theme_config:
     linkedin:
     instagram:
   comment_utteranc:
-    enable: false
+    enable: true
     repo: altairwei/blog-of-altairwei
     label: Comment
     issue_term: pathname
